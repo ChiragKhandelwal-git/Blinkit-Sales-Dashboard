@@ -18,4 +18,4 @@ Key Insights:
 2.Total profit exceeded ₹5.9M with ₹994K total discounts
 3.Insights into the impact of discounts on product profitability
 
-Tech Stack: Power BI, DAX, Power Query, Exce
+Tech Stack: Power BI, DAX, Power Query, Excel
